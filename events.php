@@ -1,0 +1,114 @@
+<?php
+include"header.php"
+?>
+
+<div class="row" id="event">
+<div class="col-md-11 offset-1 text-white bg-dark">
+<h1>SPORTIX SC VS VOLUPTATE FC</h1>
+<p class="sam">2017-Primary League</p>
+<ul type="square">
+<li class="sam"> <i class="fa fa-calendar"></i> June 11,2022</li>
+</ul>
+<ul type="square">
+<li class="sam"> <i class="fa fa-clock-o" aria-hidden="true"></i> 10:00 PM</li>
+</ul>
+</div>
+</div>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+<div class="row p-3" id="spots">
+<div class="col-md-12">
+<h1 class="more">Latest Results</h1>
+<br>
+<div class="row  bg-light border p-3">
+<div class="col-md-12 text-center p-4">
+<h1 class="display-6"><span class="text-success h1">GREAT WIN</span> FINALS</h1>
+</div>
+<div class="col-md-3 ">
+
+<img src=" images/logo.png" height="280" width="100%" data-aos="fade-down-right">
+</div>
+<div class="col-md-6  p-3 text-center">
+<p><span><i class="fa fa-calendar"></i>30 July 2022</span>&nbsp;&nbsp;
+<span><i class="fa fa-clock-o" aria-hidden="true"></i>10 am</span></p>
+<h1> Sportix SC vs Volupate FC</h1></br>
+</br>
+<p><span class="box bg-success">1</span> -- <span class="box bg-success">2</span></p></br>
+<p> <i class="fa fa-trophy" aria-hidden="true"></i> Primary League</p>
+<p> <i class="fa fa-home" aria-hidden="true"></i> Camp Nou</p>
+</div>
+
+<div class="col-md-3">
+
+<img src="images/soccer1.png" height="280" width="100%" data-aos="fade-down-left">
+</div>
+</div>
+</div>
+</div>
+
+
+<br>
+<div class="row  bg-light border p-3">
+<div class="col-md-12 text-center p-4">
+<h1 class="display-6"><span class="text-success h1">GREAT WIN</span> FINALS</h1>
+</div>
+<div class="col-md-3 ">
+
+
+<img src=" images/result1.png" height="280" width="100%" data-aos="fade-down-right">
+</div>
+<div class="col-md-6  p-3 text-center">
+<p><span><i class="fa fa-calendar"></i>30 May 2022</span>&nbsp;&nbsp;
+<span><i class="fa fa-clock-o" aria-hidden="true"></i>10 am</span></p>
+<h1> Sportix SC vs Summis Sc</h1>
+</br></br>
+<p><span class="box bg-success">5</span> -- <span class="box bg-success">2</span></p></br>
+<p> <i class="fa fa-trophy" aria-hidden="true"></i> Champion League</p>
+<p><i class="fa fa-home" aria-hidden="true"></i>  Camp Nou</p>
+</div>
+
+<div class="col-md-3">
+
+<img src="images/logo.png" height="280" width="100%" data-aos="fade-down-left">
+</div>
+</div>
+
+
+
+<br>
+<div class="row  bg-light border p-3">
+<div class="col-md-12 text-center p-4">
+<h1 class="display-6"><span class="text-success h1">GREAT WIN</span> FINALS</h1>
+</div>
+<div class="col-md-3 ">
+
+<img src=" images/result2.png" height="280" width="100%" data-aos="fade-down-right">
+</div>
+<div class="col-md-6  p-3 text-center">
+<p><span><i class="fa fa-calendar"></i>30 August 2022</span>&nbsp;&nbsp;
+<span><i class="fa fa-clock-o" aria-hidden="true"></i>9 am</span></p>
+<h1> Veniam Officia FC vs Sportix SC</h1></br>
+</br>
+<p><span class="box bg-success">4</span> -- <span class="box bg-success">1</span></p></br>
+<p> <i class="fa fa-trophy" aria-hidden="true"></i> Primary League</p>
+<p>  <i class="fa fa-home" aria-hidden="true"></i> Anfield</p>
+</div>
+
+<div class="col-md-3">
+
+<img src="images/soccer1.png" height="280" width="100%" data-aos="fade-down-left">
+</div>
+</div>
+
+</br></br></br></br>
+
+
+
+<?php
+include"footer.php";
+?>

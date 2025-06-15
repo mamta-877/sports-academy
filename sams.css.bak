@@ -1,0 +1,40 @@
+#heading1{ color:black;
+font-size:140px;
+font-family:Book Antiqua;
+font-style:italic:}
+.c1{color:green;
+font-weight:bold;
+font-size:50px;
+background-color:black;}
+#banner {background-image:url('images/grass.jpg'); background-size:100% 450px; }
+.more{color:#1d3830;font-family:Baskerville Old Face; text-decoration:underline; font-size:40px;}
+#back{background-image:url('images/blog1.jpg');padding:150px; background-size:100% 700px;}
+#banner span{font-size:60px; color:white;}
+#banner h1{color:yellow}
+#nav a{color:white; padding-left:50px;}
+#sneha { background-color:#2d3a3a;}
+#sneha h3{color:white}
+#last {background-color:#2d3a3a ;}
+.days{background-color:#1d3830;}
+#spots p{font-weight:bold;}
+#sams p{color:orange}
+#table h3{ background-color:#1d3830}
+#nav a:hover{color:red; border:1 px solid red;}
+#contact{background-color:dark}
+#sports{background-color:dark;}
+#gallery p{color:orange;}
+#serve{background-color:#1d3830;}
+#blog{background-color:#1d3830;}
+#new{padding:20px;box-shadow:1px 1px 10px  #ccc;}
+#recap{padding:20px;box-shadow:1px 1px 10px red;}
+#sports{background-color:#1d3830;}
+.less{color:black;font-family:Script Mt Bold; font-style:italic; font-size:20px;}
+.box{ padding:10px; font-size:20px;}
+.sam{font-style:italic; font-family:Script Mt Bold; color:white; font-size:20px;}
+#loginformbody{background:url('images/blog13.jpg');background-size:cover;}
+#loginform{background:rgba(255,255,255,0.6);padding:20px;}
+#loginform button:hover{transform:scale(1.2);}
+#admin{background:url('images/blog15.jpg');background-size:cover;}
+#loginform{background:rgba(255,255,255,0.6);padding:20px;}
+#admins{padding-bottom:2180px;}
+.panel{background:rgba(255,255,255,0.6);padding:20px;}

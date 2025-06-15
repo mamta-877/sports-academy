@@ -1,0 +1,226 @@
+<?php
+include"header.php";
+?>
+
+<div class="row m-5"id="sneha">
+<div class="col-md-7 ">
+<img src="images/blog.jpg" height="300" width="550" data-aos="fade-down"
+     data-aos-easing="linear"
+     data-aos-duration="1500">
+</div>
+<div class="col-md-5 pt-5 text-white">
+
+<P class="less text-white">Dharmendra Pradhan, Anurag Singh Thakur, Nishith Pramanik interact with athletes and fitness icons on National Sports Day; 26 elite athletes visit schools across India___</P>
+
+<p> <i class="fa fa-calendar"></i> JULY 23,2022</p>
+<p><i class="fa fa-home" aria-hidden="true"></i> New Delhi</p>
+
+</div>
+</div>
+
+
+<div class="row p-3" id="spots">
+<div class="col-md-6">
+<h1 class="more">Latest Results</h1>
+<br>
+<div class="row  bg-light border p-3">
+<div class="col-md-12 text-center p-4">
+<h1 class="display-6"><span class="text-success h1">GREAT WIN</span> FINALS</h1>
+</div>
+<div class="col-md-3 ">
+
+<img src=" images/logo.png" height="150" width="100%" data-aos="zoom-out-left">
+</div>
+<div class="col-md-6 text-center">
+<p><span><i class="fa fa-calendar"></i>30 July 2022</span>&nbsp;&nbsp;
+<span><i class="fa fa-clock-o" aria-hidden="true"></i>10 am</span></p>
+<p class="less"> Sportix SC vs Volupate FC</p>
+<p><span class="box bg-success">1</span> -- <span class="box bg-success">2</span></p>
+</div>
+
+<div class="col-md-3">
+
+<img src="images/soccer1.png" height="150" width="100%" data-aos="zoom-out-left">
+</div>
+</div>
+</div>
+<div class="col-md-1"></div>
+<div class="col-md-5">
+<h1 class="more">Upcoming match</h1>
+<div class="row bg-light border ">
+<p class="text-light days less"> 4 days 05 hrs 40 mins 56 secs</p>
+<div class="col-md-12 text-center p-4">
+<img src="images/logo.png" height="80" width="80" data-aos="fade-up"
+     data-aos-duration="3000"/>
+
+<img src="images/football.png" height="80" width="80" data-aos="fade-up"
+     data-aos-duration="3000"/ >
+</br>
+</br>
+
+
+<h3 class="display-7"> Sportix SC vs Quid Esse FC</h3>
+</div>
+</div>
+</div></div>
+
+<div class="row p-3" id="sams">
+<div class="col-md-12 p-3">
+<h1 class="more">OUR TEAM</h1>
+</div></div>
+
+<div class="row">
+<div class="col-md-3">
+
+<img src="images/avatar4.png" height="230" width="100%" data-aos="fade-right"
+     data-aos-offset="300"
+     data-aos-easing="ease-in-sine">
+<p class="less">Defender </p>
+<h5 class="less"> Sandesh Jhingan</h5>
+</div>
+<div class="col-md-3">
+<img src="images/avatar1.png" height="230" width="100%" data-aos="fade-down"
+     data-aos-easing="linear"
+     data-aos-duration="1500">
+<p class="less">Forward </p>
+<h5 class="less">Sunil Chhetri</h5>
+</div>
+<div class="col-md-3">
+<img src="images/avatar2.png" height="230" width="100%" data-aos="fade-up"
+     data-aos-duration="3000">
+<p class="less"> Midfielder</p>
+<h5 class="less">Sahal Samad </h5>
+</div>
+
+<div class="col-md-3">
+<img src="images/avatar3.png" height="230" width="100%" data-aos="fade-left"
+     data-aos-anchor="#example-anchor"
+     data-aos-offset="500"
+     data-aos-duration="500">
+<p class="less"> Defender</p>
+<h5 class="less">Ashique Kuruniyan</h5>
+</div>
+
+<a href="team.php"><button type="VIEW ALL" class="btn btn-success"> VIEW ALL</button></a>
+</div>
+
+
+
+<div class="row p-4" id="bottle">
+<div class="col-md-8">
+<h1 class="more">LATEST NEWS</h1>
+<img src="images/t1.jpg" height="350" width="100%" data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
+<p class="less"> A Special training programme has been set up for all the staff members and players of the Premier League regarding sexual consent education, which is mandotry for all to attend. The startup aims to drive community of four billion fans, allowing them to watch live games virtually, buy merchandise, engage with players and bet.Former PSD employees Cormac Whelan,
+Matthew Hobson and Ramesh Chandra Padhy
+have joined the team as consultants. Their
+expertise, guidance and support will be
+valuable in providing direction and adding
+value to PSD’s programs. 
+
+</p>
+
+<img src="images/blog3.jpg" height="350" width="100%" data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
+<p class="less">The MFL saw 16 teams from various villages
+from eight blocks of Mayurbhanj and Balasore
+districts participate in the tournament. Tempa
+Hansdah, convener of the MFL, who
+conceptualized the competition, mentioned
+that the MFL is organized to allow rural youth
+from tribal belts of Mayurbhanj to get an
+opportunity to showcase their footballing
+talent.The MFL 2015 final saw 7,000 spectators
+cheering for their teams, with village
+Dangarbila emerging champions, and RMG
+Paunapani finishing up as runners up. Chapulu
+Hansdah was selected as the Best Player of
+the Tournament
+
+ </p>
+ </div>
+
+
+<div class="col-md-4">
+
+<div class="row" id="sams">
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-8">
+
+</div>
+<div class="col-md-4">
+
+</div>
+</div>
+
+
+<div class="row text-white" id="table">
+<div class="col-md-12 p-3">
+<h1>ABOUT OUR TEAM</h1>
+<p  class="text-dark less">Across the globe, thousands of games are played, and football is one of the most famous and enthusiastic game. Almost every nation has a football team, and they have a huge fan following. There are many football tournaments held on national as well as international levels.
+
+We can judge how famous the game is by seeing the crowd’s enthusiasm and craze watching a match of their favorite team playing. It is believed that the game was invented in England around the mid-19th century, but there exists controversy as the Chinese claim that they had invented the game.
+
+
+</p>
+</div>
+<h2 class="text-bold bg-dark text-center"> Weekly Schedule </h3>
+<table class="table table-bordered"  cellpadding="10">
+<tr>
+<th>Youth Team</th>
+<th> Main Field</th>
+</tr>
+<tr>
+<td>Monday</td>
+<td> <i class="fa fa-clock-o" aria-hidden="true"></i>08PM-09PM</td>
+</tr>
+
+<tr>
+<td>Tuesday</td>
+<td> <i class="fa fa-clock-o" aria-hidden="true"></i>08PM-09PM</td>
+</tr>
+
+<tr>
+<td>Wednesday</td>
+<td> <i class="fa fa-clock-o" aria-hidden="true"></i>09PM-10PM</td>
+</tr>
+<tr>
+<td>Thursday</td>
+<td> <i class="fa fa-clock-o" aria-hidden="true"></i>08PM-09PM</td>
+</tr>
+<tr>
+<td>Friday</td>
+<td> <i class="fa fa-clock-o" aria-hidden="true"></i>08PM-09PM</td>
+</tr>
+<tr>
+<td>Saturday</td>
+<td> <i class="fa fa-clock-o" aria-hidden="true"></i>10PM-11PM</td>
+</tr>
+
+</table>
+<div class="row text-white data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000" >
+<div class="col-md-12 p-3">
+<h2 class="bg-dark"> GALLERY</h2>
+<img src="images/blog.jpg" height="70" width="70">
+<img src="images/logo.png" height="70" width="70">
+<img src="images/t1.jpg" height="70" width="70">
+<img src="images/soccer1.png" height="70" width="70">
+<img src="images/s3.jpg" height="70" width="70">
+</div>
+<button ><a href="blog.php" type="VIEW ALL" class="btn btn-success"> VIEW ALL</button></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<?php
+include"footer.php";
+?>

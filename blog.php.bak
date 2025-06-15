@@ -1,0 +1,37 @@
+<?php
+include"header.php"
+?>
+
+<div class="row p-4 bg-dark text-white text-center">
+<div class="col-md-11 offset-1">
+<h1>BLOG<h1>
+</div>
+</div>
+
+<div class="row">
+
+<?php
+$q="select * from tbaddblog";
+$res=mysqli_query ($con,$q);
+
+while($row=mysqli_fetch_array($res))
+	
+{
+	?>
+	<div class="col-md-6">
+		<div class="col-md-12 p-3 border border-success mb-3 mt-2"data-aos="fade-right">
+	<img src="admin/uploads/<?php echo $row['pic'];?>" height="300" width="100%" />
+	<h3> <?php echo $row['title']; ?></h3>
+	<p><?php echo $row['description'];?></p>
+	<p class="bg-success text-light p-2"> Post on: <?php echo $row['poston']; ?></p>
+	</div>
+	</div>
+<?php } ?>
+</div>
+
+
+
+
+<?php
+include"footer.php"
+?>

@@ -1,0 +1,249 @@
+<?php
+include"header.php";
+?>
+<div class="row offset-1 text-white" id="sports">
+<div class="col-md-10 offset-1 ">
+<h1> SPORTIX SC</h1>
+<p class="less text-white"> The best club in the world.</p>
+
+</div>
+</div>
+
+<div class="row p-4 m-3" id="sportix ">
+<div class="col-md-4">
+<div data-aos="flip-up">
+<img src="images/logo.png " height="180" width="180">
+</div>
+</div>
+<div class="col-md-8 ">
+<h4>With a membership of 190+ soccer players drawn, we have a high level of competition.</h4>
+<p class="less">The Club provides children the opportunity to learn and develop soccer skills. Our qualified coaches are always on hand to inspire, encourage and share their passion for the beautiful game.
+Sports Club is a pioneer in gaming services. The organization is dedicated to providing top-of-the class gaming equipments, training and services. Since its inception, Sports Club has successfully delivered unparalleled sporting facilities and gaming equipments to thousands of its aspirants. Sports Club training facilities are provided by talented gamers. Sports Club expanding its presence beyond the native marking, has ramped up its infrastructure for international clients. It has also diversified the scope of its services with a shared vision and values.  </p>
+</div>
+</div>
+
+<div class="row card p-3 m-3" id="history">
+<div class="col-md-12">
+<h2 class="more"> HISTORY</h2></br></br>
+<p class="less"> What is a soccer club? Who is the club? What does the club do?
+
+These are commonly asked questions, and depending on whom you ask you will get a different answer from each person. If you ask a world soccer enthusiast, they will tell you it is a place of pride. If you ask an American soccer enthusiast, they will tell you it is a theory in our country. If you ask the average soccer parent, they will tell you they do not know or it is the team's name across the front of the jersey.
+
+This will be an attempt to clarify the definition and purpose of a true soccer club in our country. Moreover, this will help you to understand what our soccer club is all about and the overall philosophy. First, a definition.
+
+A soccer club is a community oriented organization whose purpose is to develop individual and team soccer excellence in order to compete at the highest level each individual and team is capable. Wow! That can have many different meanings and it certainly will have many different perceptions. What does that mean to you or the soccer player running around in your house?
+</p>
+<h4>
+VISION
+</h4>
+<p class="less">
+Create SPORTS AMBASSADORS for our Nation, excelling on and off the field
+</p>
+<h4>
+MISSION
+</h4>
+<p class="less">
+ENCOURAGE : Increase sporting participation in wider community
+<br>
+
+EDUCATE: To provide recreational & developmental  training
+<br>
+EMPOWER: Elite training & providing professional opportunities
+</p>
+</div>
+</div>
+
+<div class="row p-4" id="coach">
+<div class="col-md-4">
+<img src="images/hottest.jpg" height="280" width="70%"data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000"/>
+</div>
+<div class="col-md-8 p-2">
+<h3 class="more"> Coach Bryan Peterson</h3></br></br>
+<p class="less"> See it is not the coaches who put a whistle around their neck and demand that the player call him/her "Coach Johnson." The coaches that assist the game are the ones who live and breathe the game, the "soccer junkies" as I like to call them. The soccer junkies put the players first and always respect that the game is so humbling and so beautiful when it is the player's game. They are not only after team results as so many "coaches" are; they are after the game being played at a higher level. Hence, when the game is played at a higher level then the victories are in abundance, both in theory and in results.
+
+</p>
+
+</div>
+</div>
+
+<div class="row p-4" id="carter">
+<div class="col-md-4">
+<img src="images/istock.jpg" height="280" width="70%"data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000"/>
+</div>
+<div class="col-md-8 p-2">
+<h3 class="more"> Assistant Coach Charles Carter</h3>
+<p class="less">In order for the game to be played at a higher level, each player needs to be self-reliant in their quest to excel. Players cannot wait for direction from a coach the instant they have the ball at their feet, that is too late! For the instant the ball is at their feet is the instant they have to defeat their opponent. If they know what their options are prior to receiving the ball, they will defeat their opponent. A coach and/or parent cannot see what each player sees as they are receiving a ball so how can we make their decisions for them? We cannot! It is that simple!</p>
+
+</div>
+</div>
+
+
+<div class="row p-4" id="lan">
+<div class="col-md-4">
+<img src="images/soccer.jpg" height="280" width="70%"data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000"/>
+</div>
+<div class="col-md-8 p-2">
+<h3 class="more"> Physician Lan Romero</h3>
+<p class="less">Soccer education happens in two places: soccer training and soccer matches. Soccer training consists of team training, and the most important and impacting type of training, self-training. Each player who wishes to excel must seek time to train on their own, with a soccer ball, either in small groups of friends or in solitude. We as a club are defining these avenues for success with our players.
+
+A club serves a greater purpose over that of an individual team or even the individual player. We work to keep the game in perspective and to keep our players in the right atmosphere to experience that same perspective. It is a question of community versus individual. So the question is not "What is a club?" Or "What does the club do?" The question is: "What will achieve greater results for our teams and individuals: we or me?"</p>
+
+</div>
+</div>
+
+<div class="row p-3" id="spots">
+<div class="col-md-12">
+
+<h1 class="more"> Fixtures</h1>
+<br>
+<div class="row  bg-light border p-3">
+<div class="col-md-12 text-center p-4">
+<h1 class="display-6"><span class="text-success h1">GREAT WIN</span> FINALS</h1>
+</div>
+<div class="col-md-3 ">
+
+<img src=" images/logo.png" height="250" width="100%"data-aos="fade-right"/>
+</div>
+
+<div class="col-md-6 text-center">
+<p><span><i class="fa fa-calendar"></i>30 July 2022</span>&nbsp;&nbsp;
+<span><i class="fa fa-time"></i>10 am</span></p>
+<p class="less"> Sportix SC vs Volupate FC</p>
+<p><span class="box bg-success">1</span> -- <span class="box bg-success">2</span></p>
+</div>
+
+<div class="col-md-3">
+
+<img src="images/soccer1.png" height="250" width="100%"data-aos="fade-right"/>
+</div>
+</div>
+</div>
+</br>
+</br>
+</br>
+<div class="col-md-1"></div>
+<div class="col-md-12 p-5">
+<h1 class="more">Upcoming match</h1>
+<div class="row bg-light border ">
+<p class="text-light days less"> 4 days 05 hrs 40 mins 56 secs</p>
+<div class="col-md-12 text-center p-4">
+<img src="images/logo.png" height="80" width="80" data-aos="fade-up"
+     data-aos-anchor-placement="top-bottom"/>
+
+<img src="images/football.png" height="80" width="80" data-aos="fade-up"
+     data-aos-anchor-placement="top-bottom"/>
+</br>
+</br>
+
+
+<h3 class="display-7"> Sportix SC vs Quid Esse FC</h3>
+</div>
+</div>
+</div>
+</div>
+<div class="row p-4 " id="Clubs">
+<div class="col-md-12">
+<div class="col-md-12 p-5 ">
+<h2 class="more"> Join our Club</h2>
+<?php
+if(isset($_POST['btnsubmit']))
+{
+$name=mysqli_real_escape_string($con,$_POST['name']);
+$email=mysqli_real_escape_string($con,$_POST['email']);
+$dateofbirth=mysqli_real_escape_string($con,$_POST['dateofbirth']);
+$phonenumber=mysqli_real_escape_string($con,$_POST['phonenumber']);
+$city=mysqli_real_escape_string($con,$_POST['city']);
+$state=mysqli_real_escape_string($con,$_POST['state']);
+
+$message=mysqli_real_escape_string($con,$_POST['message']);
+
+
+$q="insert into
+tbclub(name,email,dateofbirth,phonenumber,city,state,message) values('$name','$email','$dateofbirth','$phonenumber','$city','$state','$message')";
+if(mysqli_query($con,$q))
+{
+	echo"<script>alert('submit')</script>";
+}
+else
+{
+	echo mysqli_error($con);
+}
+}
+?>
+<form id="contactform" action="#" method="post">
+<label class="less">Name </label>
+<input type="text" class="form-control mb-4" name="name" placeholder="Enter name"/>
+<label  class="less">Email</label>
+<input type="email" placeholder="enter email" class="form-control mb-4" name="email" required />
+
+<label  class="less">Date of Birth</label>
+<input type="text" Placeholder="dateofbirth" class="form-control mb-4"name="dateofbirth" required />
+
+<label  class="less">Phone Number</label>
+<input type="text" Placeholder="phonenumber" class="form-control mb-4"name="phonenumber" maxlength="10" required />
+
+<label  class="less">City</label>
+
+<select class="form-control mb-4" name="city" required >
+<option>-select city-</option>
+<option>Hisar</option>
+<option>Bathinda</option>
+<option>Jaipur</option>
+<option>Sirsa</option>
+<option>Faridabad</option>
+</select>
+
+<label  class="less">States</label>
+<select class="form-control mb-4" name="state" required >
+<option>-select states-</option>
+<option>Punjab</option>
+<option>Haryana</option>
+<option>Kerala</option>
+<option>Goa</option>
+<option>Maharashtra</option>
+</select>
+
+
+
+<label class="less">Your Message</label>
+<input type="text" class="form-control mb-4" name="message" placeholder="Message"/>
+
+<button type="Submit" class="btn btn-success" name="btnsubmit"  >Submit</button>
+</div>
+
+
+</form>
+</div>
+</br>
+</br>
+
+
+
+</br></br></br>
+<?php
+include"footer.php";
+?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

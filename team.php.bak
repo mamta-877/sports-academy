@@ -1,0 +1,87 @@
+<?php
+include"header.php";
+?>
+<div class="row  " id="gallery">
+<div class="col-md-11  bg-dark text-white offset-1">
+<h1>OUR TEAM</h1>
+</div>
+<div class="col-md-12 p-3">
+<h2 class="more">Player Gallery</h2>
+</div>
+<div class="col-md-3">
+<img src="images/avatar4.png" height="230" width="100%"data-aos="flip-up">
+<p class="less">Defender </p>
+<h5> Sandesh Jhingan</h5>
+</div>
+<div class="col-md-3">
+<img src="images/avatar1.png" height="230" width="100%"data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
+<p class="less">Forward </p>
+<h5>Sunil Chhetri</h5>
+</div>
+<div class="col-md-3">
+<img src="images/avatar2.png" height="230" width="100%"data-aos="flip-up">
+<p class="less"> Midfielder</p>
+<h5>Sahal Samad </h5>
+</div>
+
+<div class="col-md-3 p-3">
+<img src="images/avatar3.png" height="230" width="100%"data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
+<p class="less"> Defender</p>
+<h5>Ashique Kuruniyan</h5>
+</div>
+<div class="col-md-3 p-3">
+<img src="images/avatar5.png" height="230" width="100%"data-aos="flip-up">
+<p class="less"> Midfielder</p>
+<h5> Anirudh Thapa</h5>
+</div>
+<div class="col-md-3 p-3">
+<img src="images/avatar6.png" height="230" width="100%"data-aos="flip-down"">
+<p class="less"> Forward</p>
+<h5> Manvir Singh</h5>
+</div>
+<div class="col-md-3 p-3">
+<img src="images/avatar7.png" height="230" width="100%"data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
+<p class="less"> Defender</p>
+<h5> Akash Mishra</h5>
+</div>
+<div class="col-md-3 p-3">
+<img src="images/avatar8.png" height="230" width="100%"data-aos="flip-down">
+<p class="less">Goalkeeper</p>
+<h5> Dheeraj singh Maolhotra</h5>
+</div>
+<div class="col-md-3 p-3">
+<img src="images/avatar9.png" height="230" width="100%"data-aos="flip-up">
+<p class="less"> Midfielder</p>
+<h5> Glan Martins</h5>
+</div>
+<div class="col-md-3 p-3">
+<img src="images/avatar10.png" height="230" width="100%"data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
+<p class="less">Forward</p>
+<h5>Rahim Ali</h5>
+</div>
+<div class="col-md-3 p-3">
+<img src="images/avatar1.png" height="230" width="100%"data-aos="flip-up">
+<p class="less ">Defender</p>
+<h5> Rahul Bheke</h5>
+</div>
+<div class="col-md-3 p-3">
+<img src="images/avatar4.png" height="230" width="100%data-aos="flip-left"
+     data-aos-easing="ease-out-cubic"
+     data-aos-duration="2000">
+<p class="less">Defender</p>
+<h5> Anwar ali</h5>
+</div>
+</div>
+
+
+<?php
+include"footer.php";
+?>
